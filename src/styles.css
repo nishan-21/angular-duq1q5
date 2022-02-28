@@ -1,0 +1,10 @@
+/* Add application styles & imports to this file! */
+
+.ui-calendar {
+  max-width: 100%;
+  display: block!important;
+}
+
+.ui-calendar input {
+  max-width: 100%;
+}
